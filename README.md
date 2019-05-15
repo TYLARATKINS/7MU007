@@ -1,4 +1,4 @@
-# 7MU007 PlayStation 3 Drum Machine
+# 7MU007 PlayStation 3 Drum Machine (WINDOWS)
 
 Image of Drum Machine
 
