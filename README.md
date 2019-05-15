@@ -36,7 +36,7 @@ Once installed, download and install ‘Joytokey’ from the link provided. This
 Next, select settings and ‘Associate profile with applications’, then open a notepad file, click on the text editor window and wait for a moment. Joytokey will then recognise this application and allow the use of the controller with it. Test out the controller by hitting some buttons to see if the text file outputs some of the assigned letters. Once this is done, open the included MaxMSP patcher file and repeat the same process to associate the controller with the application. Once this is complete the controller will output the keystrokes to MaxMSP. 
 
 Image of max msp presentation mode
-![alttext](https://i.gyazo.com/4967e51b405ceeaea89c2b7c4d340198.png)
+![alttext](https://i.gyazo.com/80e823be1436f5e1cf86c0474d73320f.jpg)
 
 Included MaxMSP patch is a drum sampler, with two kits included in the github directory. To turn the sampler on, click the speaker icon and turn up the output gain to a desired level. Then to load a whole drum kit, select the load sample button. This will prompt a window to open to select some samples for the drum kit. Once each sample has been chosen, hit some of the buttons on the controller and have some fun experimenting with the patterns you can make. 
 
