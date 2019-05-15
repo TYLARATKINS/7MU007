@@ -2,6 +2,11 @@
 
 Image of Drum Machine
 
+Overview
+----------------------------------------------------------------------------
+
+This guide will demonstrate how to turn an old Playstation 3 controller into a fully customisable drum machine. This is done through isolating keyboard input data as code, then converting this data into numbers which then trigger samples in a MaxMSP patch that is included in the directory. This input data is then correlated with specific keys on a computer keyboard and bound to the buttons of the Playstation 3 controller, through the use of two external software’s. The final product can be used to trigger any samples, alongside trigger functions of MaxMSP.
+
 What You Will Need
 ----------------------------------------------------------------------------
 
